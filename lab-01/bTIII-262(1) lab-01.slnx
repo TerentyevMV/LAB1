@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../extraction-function/extraction-function.vcxproj" Id="7b1d5ac3-1507-49a6-b5f4-51cb5859e6ed" />
+  <Project Path="../Project1/Project1.vcxproj" Id="e1410946-8014-4495-982c-40f912d03bda" />
+  <Project Path="../write-date-formatted/write-date-formatted.vcxproj" Id="bc0dc226-83dd-4493-868e-16be4e4d9370" />
+  <Project Path="bTIII-262(1) lab-01.vcxproj" Id="84c71dce-3a15-4fd4-9752-95c66a300935" />
+</Solution>
